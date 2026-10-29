@@ -1,4 +1,4 @@
-# pihole-filter / firetv / Stand 2026-10-29 / 283 Eintraege (0 Wildcard, 283 exakt)
+# pihole-filter / firetv / Stand 2026-10-29 / 285 Eintraege (0 Wildcard, 285 exakt)
 # Quelle: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/pro.plus-onlydomains.txt (GPL-3.0)
 # Quelle: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/native.amazon-onlydomains.txt (GPL-3.0)
 # Basis von HaGeZi, erweitert und angepasst von ConstableW
@@ -82,6 +82,7 @@ counter.pushauction.com
 counter.yadro.ru
 cross-promo.prod.mwx.ext.mobilityware.com
 cs.oghub.io
+d3h5bk8iotgjvw.cloudfront.net
 daq.zefrdata.com
 dashboard.heatmap.com
 dc.services.visualstudio.com
@@ -244,6 +245,7 @@ sibautomation.com
 slb-vgwort-de-pool03.vgwort-de.2cnt.net
 smoot-feedback.v.aaplimg.com
 sommelier.futurehybrid.tech
+spectrum.s3.amazonaws.com
 src.ebay-us.com
 srv.giraffic.com
 ssdk-sg.pangle.io
