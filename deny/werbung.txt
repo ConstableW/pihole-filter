@@ -1,4 +1,4 @@
-# pihole-filter / werbung / Stand 2026-10-29 / 385459 Eintraege (364068 Wildcard, 21391 exakt)
+# pihole-filter / werbung / Stand 2026-10-29 / 385460 Eintraege (364069 Wildcard, 21391 exakt)
 # Quelle: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/pro-onlydomains.txt (GPL-3.0)
 # Quelle: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/popupads-onlydomains.txt (GPL-3.0)
 # Quelle: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/blocklist-referral-onlydomains.txt (GPL-3.0)
@@ -27267,6 +27267,7 @@ adsomenoise.cdn01.rambla.be
 adsrv.adplus.co.id
 adsrv.ads.eniro.com
 adsrv.advanced-television.tv
+||adsrv.as^
 adsrv.bangbros.com
 ||adsrv.compass.at^
 ||adsrv.deviantart.com^
