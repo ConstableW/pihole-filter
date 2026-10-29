@@ -1,4 +1,4 @@
-# pihole-filter / werbung / Stand 2026-10-29 / 385442 Eintraege (364048 Wildcard, 21394 exakt)
+# pihole-filter / werbung / Stand 2026-10-29 / 385444 Eintraege (364048 Wildcard, 21396 exakt)
 # Quelle: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/pro-onlydomains.txt (GPL-3.0)
 # Quelle: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/popupads-onlydomains.txt (GPL-3.0)
 # Quelle: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/blocklist-referral-onlydomains.txt (GPL-3.0)
@@ -123423,6 +123423,7 @@ eventcra.com
 ||events-noneu.truecaller.com^
 ||events-ocu.zipify.com^
 ||events-prod.autolist.com^
+events-prod01.eu.prod.titanos.tv
 ||events-proxy.goodnotes-devops.com^
 ||events-proxy.mintlify.com^
 ||events-sandbox.data.msn.com^
@@ -255181,6 +255182,7 @@ prod-pdx-beacon-1406086907.us-west-2.elb.amazonaws.com
 ||prod-pod7-dvc-telemetry-podlbalb-926562891.us-west-2.elb.amazonaws.com^
 ||prod-pod8-dvc-telemetry-podlbalb-1340119296.us-east-1.elb.amazonaws.com^
 ||prod-pod9-dvc-telemetry-podlbalb-1234979978.us-west-2.elb.amazonaws.com^
+prod-potamoi.titanos.tv
 ||prod-pre.fns.tunein.com^
 ||prod-sentry-eu-38219215.eu-central-1.elb.amazonaws.com^
 ||prod-server-side-tagging-oh25t3yxza-uc.a.run.app^
