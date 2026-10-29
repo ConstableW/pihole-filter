@@ -1,6 +1,6 @@
 # Lizenzen und Quellen
 
-Die Listen in `lists/` sind zusammengefuehrte, deduplizierte und angepasste Fassungen fremder Blocklisten, ergaenzt um eigene Eintraege und bereinigt um freigestellte Domains. Jede Datei nennt im Kopf ihre Quellen und den Stand der Aenderung.
+Die Listen in `deny/` sind zusammengefuehrte, deduplizierte und angepasste Fassungen fremder Blocklisten, ergaenzt um eigene Eintraege und bereinigt um freigestellte Domains. Die Allowlists in `allow/` sind eigene Zusammenstellungen. Jede Datei nennt im Kopf ihre Quellen und den Stand der Aenderung.
 
 Weil die Listen Daten von HaGeZi (GPL-3.0) enthalten, steht dieses Repository insgesamt unter der **GNU General Public License v3.0** (siehe `LICENSE`). Eigene Aenderungen: ConstableW.
 
