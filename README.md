@@ -12,6 +12,7 @@ Gepflegte Blocklisten und Allowlists für Pi-hole und andere DNS-Filter, nach Th
 | `gluecksspiel` | Online-Casinos, Sportwetten, Poker |
 | `smarttv` | Samsung- und andere Smart-TV-Tracker, Update-Server |
 | `tiktok` | TikTok-Domains |
+| `firetv` | Werbung, Analyse und Tracking von Amazon Fire TV |
 | `umgehung` | DoH-, VPN- und Proxy-Dienste, mit denen sich Filter umgehen lassen |
 | `amazon`, `winoffice`, `xiaomi` | Geräte-Telemetrie (greift tief ein, im Zweifel prüfen) |
 | `safesearch`, `spam-tlds`, `urlshortener`, `social`, `piraterie`, `dyndns`, `hoster` | Optionale Listen, die tiefer eingreifen |
