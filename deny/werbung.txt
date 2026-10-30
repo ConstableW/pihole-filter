@@ -1,4 +1,4 @@
-# pihole-filter / werbung / Stand 2026-10-30 / 385576 Eintraege (364180 Wildcard, 21396 exakt)
+# pihole-filter / werbung / Stand 2026-10-30 / 385585 Eintraege (364189 Wildcard, 21396 exakt)
 # Quelle: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/pro-onlydomains.txt (GPL-3.0)
 # Quelle: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/popupads-onlydomains.txt (GPL-3.0)
 # Quelle: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/blocklist-referral-onlydomains.txt (GPL-3.0)
@@ -48938,7 +48938,6 @@ as.ao.impact-ad.jp
 as.autoforums.com
 ||as.baidu.com^
 as.bi.impact-ad.jp
-||as.bild.de^
 ||as.businessinsider.de^
 ||as.bz-berlin.de^
 as.cd.impact-ad.jp
@@ -82825,6 +82824,7 @@ cioco-froll.com
 ||cionialessio.it^
 ||cionzxusdt.com^
 ||cioonrly.com^
+||ciottchde.store^
 ||cipangonone.com^
 ||cipayroll.com^
 ||cipb5.5vgleumy1uwir4qy5wk.cyou^
@@ -97769,6 +97769,7 @@ cyppolice.com
 ||cyrkielzyskanta.digital^
 ||cyrkielzyskanta.net^
 ||cyrkielzyskantaai.com^
+||cyrlavo.com^
 ||cyrola.net^
 ||cyrosalnix.com^
 ||cyrosinternational.com^
@@ -117620,6 +117621,7 @@ eifjwkle93op.eu.cc
 ||eisenpeak-ai.com^
 ||eisenpeak.com^
 ||eisenpeakapp.org^
+||eisenpeakgpt.com^
 ||eisenra-flux.com^
 ||eisenraflux-gpt.com^
 ||eisenraflux-gpt.org^
@@ -118701,6 +118703,7 @@ elkjop.112.2o7.net
 ||elquirendanza.com^
 ||elquirendanza.live^
 ||elqunhaejiyfm.online^
+||elqurin.com^
 ||elqvani.shop^
 ||elqvoro.shop^
 ||elqznq.onllyforyougirl.com^
@@ -131749,6 +131752,7 @@ finzy0-molestiae11.sbs
 finzy0-natus31.sbs
 finzy0-nihil87.sbs
 finzy0-nihil91.sbs
+||finzy0-nobis82.sbs^
 finzy0-nostrum71.sbs
 ||finzy0-occaecati97.sbs^
 finzy0-odio29.sbs
@@ -131756,7 +131760,6 @@ finzy0-officia28.sbs
 ||finzy0-omnis32.sbs^
 finzy0-perferendis18.sbs
 finzy0-possimus95.sbs
-||finzy0-quaerat7.sbs^
 finzy0-quam56.sbs
 finzy0-quam57.sbs
 finzy0-qui31.sbs
@@ -131785,7 +131788,6 @@ finzy1-dolorum69.sbs
 finzy1-ducimus69.sbs
 finzy1-eaque38.sbs
 finzy1-enim82.sbs
-||finzy1-eos67.sbs^
 finzy1-eos99.sbs
 finzy1-est99.sbs
 finzy1-et61.sbs
@@ -131817,6 +131819,7 @@ finzy1-non91.sbs
 finzy1-nulla8.sbs
 finzy1-odit86.sbs
 finzy1-officiis82.sbs
+||finzy1-omnis22.sbs^
 finzy1-optio90.sbs
 finzy1-placeat43.sbs
 finzy1-praesentium74.sbs
@@ -131897,7 +131900,6 @@ finzy2-provident51.sbs
 finzy2-quas10.sbs
 finzy2-qui88.sbs
 finzy2-quibusdam16.sbs
-||finzy2-quibusdam19.sbs^
 finzy2-quo23.sbs
 finzy2-reprehenderit35.sbs
 finzy2-reprehenderit47.sbs
@@ -132095,7 +132097,6 @@ finzy5-nisi6.sbs
 finzy5-omnis0.sbs
 ||finzy5-omnis61.sbs^
 ||finzy5-optio16.sbs^
-||finzy5-porro28.sbs^
 finzy5-possimus43.sbs
 finzy5-quae46.sbs
 finzy5-quasi75.sbs
@@ -132266,7 +132267,6 @@ finzy7-rerum64.sbs
 finzy7-rerum96.sbs
 finzy7-sed8.sbs
 finzy7-sunt32.sbs
-||finzy7-ullam23.sbs^
 finzy7-ullam69.sbs
 finzy7-unde90.sbs
 finzy7-ut38.sbs
@@ -135455,6 +135455,7 @@ forge-capmoor.cfd
 ||forge-ridge.com^
 ||forgeboxcontainers.com^
 ||forgecamoor.com^
+||forgecampoor.com^
 ||forgecapmoor.click^
 ||forgecapmoor.net^
 ||forgecapmoor.shop^
@@ -144168,6 +144169,7 @@ gglcash4u.info
 ||gglead.org^
 ||ggljjk.cc^
 ||gglneirzacrqd.com^
+||gglobalbraxen.com^
 ||ggltrck.com^
 ||gglvfczegumro.site^
 ||gglx.me^
@@ -157503,6 +157505,7 @@ hirek-online.com
 hireproplus.com
 ||hireshrinebeauty.com^
 ||hiresplinter.com^
+||hirexpo.com^
 hirfolyam24.blogspot.hu
 ||hiringought.com^
 hirmadar.com
@@ -170465,6 +170468,7 @@ ipjackets.com
 ipkobi.oumarea.xyz
 ||ipkobiznes-pl.banco-ctt-2026.com^
 ipkobiznes-pl.oumarea.xyz
+||ipkobiznes-pl.schoonheidsinstituutise.be^
 ||ipkobiznes.app^
 ipkobiznes.co
 ||ipkobiznes.multinfos.online^
@@ -177199,6 +177203,7 @@ junior.apk.net
 ||junipernetworks.d2.sc.omtrdc.net^
 ||junipernetworks.tt.omtrdc.net^
 ||juniperstakereach.com^
+||juniperstave.com^
 ||junivo.shop^
 ||junjaramthory.com^
 ||junjiechem.com^
@@ -231404,6 +231409,7 @@ oferta5123.sbs
 ||oferta513516.help^
 ||oferta51647945.click^
 ||oferta58241.live^
+||oferta5971077.icu^
 oferta63728.lol
 ||oferta6483875.cfd^
 ||oferta731692.click^
@@ -280364,6 +280370,7 @@ sbh9hu4trk.com
 ||sbornix.ru^
 ||sborsgossi.store^
 ||sboxcontainers.com^
+||sbozzincre.store^
 ||sbpb1.chuiyue.com^
 ||sbplus.hr^
 ||sbpwavwqlhvgge.com^
@@ -359167,6 +359174,7 @@ wellnessnaturopathic.com
 ||wellwritten.net^
 ||wellyoudate.net^
 ||wellzy.de^
+||welmako.com^
 ||welmax.pl^
 ||welnaro.com^
 ||weloancashnow.com^
@@ -378508,6 +378516,7 @@ yllvye.com
 ||ylog.huya.com^
 ||ylog.nimo.tv^
 ||ylogepubxynzu.space^
+||ylowmint.com^
 ||ylpvdnotfwvwa.space^
 ||ylqaven.vip^
 ||ylqreltdrixef.website^
