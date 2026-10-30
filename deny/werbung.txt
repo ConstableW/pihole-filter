@@ -1,4 +1,4 @@
-# pihole-filter / werbung / Stand 2026-10-30 / 385573 Eintraege (364177 Wildcard, 21396 exakt)
+# pihole-filter / werbung / Stand 2026-10-30 / 385576 Eintraege (364180 Wildcard, 21396 exakt)
 # Quelle: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/pro-onlydomains.txt (GPL-3.0)
 # Quelle: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/popupads-onlydomains.txt (GPL-3.0)
 # Quelle: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/blocklist-referral-onlydomains.txt (GPL-3.0)
@@ -35693,6 +35693,7 @@ amazdiusprod.112.2o7.net
 ||amaznroundcubeeconfiguration.s3.us-east-1.amazonaws.com^
 ||amazobn.fr^
 ||amazoln.fr^
+||amazon-ads-attestation.com^
 ||amazon-adsystem.amazon.com^
 amazon-adsystem.com
 ||amazon-adsystems.com^
@@ -266745,6 +266746,7 @@ reacherinst.com
 ||reachhighermontana.com^
 ||reachhub.ge^
 ||reachhumans.com^
+||reachit.network^
 ||reachjunction.com^
 ||reachlocal.com^
 ||reachlocalservices.com^
@@ -331899,6 +331901,7 @@ tps711.doubleverify.com
 ||tq-eu.xasedformed-a.online^
 ||tq-eu.xasedformed-b.online^
 ||tq-eu.xasedformed-c.online^
+||tq-tungsten.com^
 ||tq.aasedformed-b.online^
 ||tq.aasedformed-c.online^
 ||tq.aasedformed-d.online^
