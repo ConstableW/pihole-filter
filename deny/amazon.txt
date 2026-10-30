@@ -1,4 +1,4 @@
-# pihole-filter / amazon / Stand 2026-10-29 / 367 Eintraege (367 Wildcard, 0 exakt)
+# pihole-filter / amazon / Stand 2026-10-30 / 367 Eintraege (367 Wildcard, 0 exakt)
 # Quelle: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/native.amazon-onlydomains.txt (GPL-3.0)
 # Basis von HaGeZi, angepasst von ConstableW
 # Lizenz: GPL-3.0, siehe LICENSE und NOTICE.md im Repository

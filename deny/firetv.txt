@@ -1,4 +1,4 @@
-# pihole-filter / firetv / Stand 2026-10-29 / 287 Eintraege (0 Wildcard, 287 exakt)
+# pihole-filter / firetv / Stand 2026-10-30 / 287 Eintraege (0 Wildcard, 287 exakt)
 # Quelle: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/pro.plus-onlydomains.txt (GPL-3.0)
 # Quelle: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/native.amazon-onlydomains.txt (GPL-3.0)
 # Basis von HaGeZi, erweitert und angepasst von ConstableW

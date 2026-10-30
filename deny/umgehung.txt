@@ -1,4 +1,4 @@
-# pihole-filter / umgehung / Stand 2026-10-29 / 16369 Eintraege (16341 Wildcard, 28 exakt)
+# pihole-filter / umgehung / Stand 2026-10-30 / 16369 Eintraege (16341 Wildcard, 28 exakt)
 # Quelle: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/doh-vpn-proxy-bypass-onlydomains.txt (GPL-3.0)
 # Quelle: https://raw.githubusercontent.com/oneoffdallas/dohservers/master/list.txt
 # Basis von HaGeZi, oneoffdallas, angepasst von ConstableW

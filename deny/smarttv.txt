@@ -1,4 +1,4 @@
-# pihole-filter / smarttv / Stand 2026-10-29 / 677 Eintraege (201 Wildcard, 476 exakt)
+# pihole-filter / smarttv / Stand 2026-10-30 / 677 Eintraege (201 Wildcard, 476 exakt)
 # Quelle: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/native.samsung-onlydomains.txt (GPL-3.0)
 # Quelle: https://perflyst.github.io/PiHoleBlocklist/SmartTV.txt
 # Basis von HaGeZi, Perflyst, erweitert und angepasst von ConstableW

@@ -1,4 +1,4 @@
-# pihole-filter / allow / ausnahmen-alltag / Stand 2026-10-29 / 4 Domains
+# pihole-filter / allow / ausnahmen-alltag / Stand 2026-10-30 / 4 Domains
 # Freigaben gegen Fehlblockaden (Allowlist, exakte Domains). Zusammengestellt von ConstableW
 # Lizenz: GPL-3.0, siehe LICENSE und NOTICE.md im Repository
 clients4.google.com

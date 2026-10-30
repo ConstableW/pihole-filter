@@ -1,4 +1,4 @@
-# pihole-filter / dyndns / Stand 2026-10-29 / 1541 Eintraege (1541 Wildcard, 0 exakt)
+# pihole-filter / dyndns / Stand 2026-10-30 / 1541 Eintraege (1541 Wildcard, 0 exakt)
 # Quelle: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/dyndns-onlydomains.txt (GPL-3.0)
 # Basis von HaGeZi, angepasst von ConstableW
 # Lizenz: GPL-3.0, siehe LICENSE und NOTICE.md im Repository

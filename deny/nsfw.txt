@@ -1,4 +1,4 @@
-# pihole-filter / nsfw / Stand 2026-10-29 / 138626 Eintraege (92127 Wildcard, 46499 exakt)
+# pihole-filter / nsfw / Stand 2026-10-30 / 138626 Eintraege (92127 Wildcard, 46499 exakt)
 # Quelle: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/nsfw-onlydomains.txt (GPL-3.0)
 # Quelle: https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn-only/hosts (MIT)
 # Basis von HaGeZi, StevenBlack, erweitert und angepasst von ConstableW

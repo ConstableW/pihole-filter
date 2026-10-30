@@ -1,4 +1,4 @@
-# pihole-filter / allow / lotto / Stand 2026-10-29 / 50 Domains
+# pihole-filter / allow / lotto / Stand 2026-10-30 / 50 Domains
 # Freigaben gegen Fehlblockaden (Allowlist, exakte Domains). Zusammengestellt von ConstableW
 # Lizenz: GPL-3.0, siehe LICENSE und NOTICE.md im Repository
 eurojackpot.com
