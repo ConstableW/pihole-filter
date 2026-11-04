@@ -1,4 +1,4 @@
-# pihole-filter / allow / dienste / Stand 2026-11-04 / 14 Domains
+# pihole-filter / allow / dienste / Stand 2026-11-04 / 15 Domains
 # Freigaben gegen Fehlblockaden (Allowlist, exakte Domains). Zusammengestellt von ConstableW
 # Lizenz: GPL-3.0, siehe LICENSE und NOTICE.md im Repository
 api.eu-west-1.aiv-delivery.net
@@ -11,6 +11,7 @@ discord.media
 discordapp.com
 discordapp.net
 gateway.discord.gg
+go.microsoft.com
 mcc-intl.inf.miui.com
 media.discordapp.net
 miwifi.com

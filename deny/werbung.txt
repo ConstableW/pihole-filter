@@ -1,4 +1,4 @@
-# pihole-filter / werbung / Stand 2026-11-04 / 385375 Eintraege (363119 Wildcard, 22256 exakt)
+# pihole-filter / werbung / Stand 2026-11-04 / 385374 Eintraege (363118 Wildcard, 22256 exakt)
 # Quelle: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/pro-onlydomains.txt (GPL-3.0)
 # Quelle: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/popupads-onlydomains.txt (GPL-3.0)
 # Quelle: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/blocklist-referral-onlydomains.txt (GPL-3.0)
@@ -145349,7 +145349,6 @@ go.inmobi.com
 ||go.mc-doualiya.com^
 ||go.media-x.ru^
 ||go.meretmarine.com^
-||go.microsoft.com^
 ||go.mmstat.com^
 ||go.mobisla.com^
 ||go.mobtrks.com^
