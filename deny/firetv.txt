@@ -1,4 +1,4 @@
-# pihole-filter / firetv / Stand 2026-10-30 / 287 Eintraege (0 Wildcard, 287 exakt)
+# pihole-filter / firetv / Stand 2026-11-04 / 284 Eintraege (0 Wildcard, 284 exakt)
 # Quelle: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/pro.plus-onlydomains.txt (GPL-3.0)
 # Quelle: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/native.amazon-onlydomains.txt (GPL-3.0)
 # Basis von HaGeZi, erweitert und angepasst von ConstableW
@@ -208,7 +208,6 @@ prebid.videostep.com
 pulsar.ebay.de
 q4vb4x-cdn-settings.appsflyersdk.com
 q4vb4x-launches.appsflyersdk.com
-quality.dpdhl.com
 quota.browser-intake-us5-datadoghq.com
 region1.app-analytics-services-att.com
 region1.app-analytics-services.com
@@ -222,8 +221,6 @@ s.pyyokibh.com
 s.vhkjhflp.com
 s.wdymemj.com
 scripting.tracify.ai
-sdk-config.kameleoon.eu
-sdk.fra-02.braze.eu
 sdk.iad-04.braze.com
 sdkapi.dsp-api.moloco.com
 sdkconfig.ad.intl.xiaomi.com

@@ -1,4 +1,4 @@
-# pihole-filter / hoster / Stand 2026-10-30 / 1082 Eintraege (1082 Wildcard, 0 exakt)
+# pihole-filter / hoster / Stand 2026-11-04 / 1074 Eintraege (1074 Wildcard, 0 exakt)
 # Quelle: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/hoster-onlydomains.txt (GPL-3.0)
 # Basis von HaGeZi, angepasst von ConstableW
 # Lizenz: GPL-3.0, siehe LICENSE und NOTICE.md im Repository
@@ -377,8 +377,8 @@
 ||dimsolo.com^
 ||diowebhost.com^
 ||domain.lc^
-||domain.name^
 ||dot.tk^
+||dothome.co.kr^
 ||douploads.net^
 ||downfall.shop^
 ||download.ac^
@@ -620,7 +620,6 @@
 ||job.ec^
 ||jp.gp^
 ||ju.mp^
-||justns.ru^
 ||k.gp^
 ||k1.cx^
 ||kann-helfen.de^
@@ -648,7 +647,6 @@
 ||lernt.de^
 ||lhosting.info^
 ||liebe.lc^
-||liftmyresume.com^
 ||lihi1.com^
 ||lihi3.cc^
 ||link.ac^
@@ -716,7 +714,6 @@
 ||my.gp^
 ||my3gb.com^
 ||my5353.com^
-||mybb.pw^
 ||myblogvoice.com^
 ||mybluehost.me^
 ||mybluehostin.me^
@@ -743,8 +740,8 @@
 ||netten.ru^
 ||netz.tl^
 ||newmail.ru^
-||nexmicrosystems.com^
 ||nicepage.io^
+||nip.io^
 ||nl.gp^
 ||nl.kg^
 ||noads.biz^
@@ -903,7 +900,6 @@
 ||start.page^
 ||staticrun.app^
 ||stormpages.com^
-||studio.site^
 ||suchtis.de^
 ||supload.com^
 ||surfblocked.co.cc^
@@ -930,9 +926,7 @@
 ||test.lc^
 ||th.gp^
 ||thamboli.co.za^
-||the-finance-world.com^
 ||tiiny.io^
-||tiiny.site^
 ||tinylink.in^
 ||tinyurl.ph^
 ||tld.cc^
@@ -1043,7 +1037,6 @@
 ||world-blog.de^
 ||world-store.de^
 ||world.mu^
-||worldsoffinance.com^
 ||writes.de^
 ||wstd.io^
 ||wtcsites.com^
@@ -1066,7 +1059,6 @@
 ||y.gp^
 ||y55.eu^
 ||ygrrvlvvgf.top^
-||yi.org^
 ||yip.su^
 ||yj.ae^
 ||ykm.de^

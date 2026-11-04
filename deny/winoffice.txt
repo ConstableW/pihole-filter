@@ -1,4 +1,4 @@
-# pihole-filter / winoffice / Stand 2026-10-30 / 383 Eintraege (383 Wildcard, 0 exakt)
+# pihole-filter / winoffice / Stand 2026-11-04 / 384 Eintraege (384 Wildcard, 0 exakt)
 # Quelle: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/native.winoffice-onlydomains.txt (GPL-3.0)
 # Basis von HaGeZi, angepasst von ConstableW
 # Lizenz: GPL-3.0, siehe LICENSE und NOTICE.md im Repository
@@ -45,6 +45,7 @@
 ||arc2.msn.com^
 ||arc3.msn.com^
 ||arc9.msn.com^
+||arctb53wmig1gagbqjqgolj2ig.msn.com^
 ||auc-visio-telemetry.officeapps.live.com^
 ||az667904.vo.msecnd.net^
 ||azurewatson.microsoft.com^

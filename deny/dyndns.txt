@@ -1,4 +1,4 @@
-# pihole-filter / dyndns / Stand 2026-10-30 / 1541 Eintraege (1541 Wildcard, 0 exakt)
+# pihole-filter / dyndns / Stand 2026-11-04 / 1533 Eintraege (1533 Wildcard, 0 exakt)
 # Quelle: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/dyndns-onlydomains.txt (GPL-3.0)
 # Basis von HaGeZi, angepasst von ConstableW
 # Lizenz: GPL-3.0, siehe LICENSE und NOTICE.md im Repository
@@ -65,9 +65,7 @@
 ||anastasion.com^
 ||aneisa.com^
 ||angelcamddns.com^
-||annaffiare.org^
 ||anondns.net^
-||antongorbunov.com^
 ||any64.de^
 ||anyitsolution.com^
 ||api64.de^
@@ -103,7 +101,6 @@
 ||bagus.org^
 ||baikabibai.com^
 ||bakli.ru^
-||barbaforte.org^
 ||barrel-of-knowledge.info^
 ||barrell-of-knowledge.info^
 ||baselinux.net^
@@ -204,7 +201,6 @@
 ||compress.to^
 ||compuinter.com^
 ||computersforpeace.net^
-||compy.ca^
 ||con-ip.com^
 ||conditsis.com^
 ||contepsa.com^
@@ -274,7 +270,6 @@
 ||diskstation.org^
 ||ditchyourip.com^
 ||dive2.net^
-||divx.se^
 ||diyplans.org^
 ||dlinkddns.com^
 ||dmtr.ru^
@@ -435,7 +430,6 @@
 ||dynnamn.ru^
 ||dynns.com^
 ||dyns.be^
-||dyns.cx^
 ||dyns.net^
 ||dynserv.org^
 ||dynssl.com^
@@ -650,7 +644,6 @@
 ||gslb.me^
 ||gteksecurity.com^
 ||gtk.cl^
-||guardz.ru^
 ||guild-site.com^
 ||gurcanozturk.com^
 ||gurdit.com^
@@ -1457,7 +1450,6 @@
 ||venez.net^
 ||verymad.net^
 ||viamisoftware.com^
-||vicinanza.org^
 ||vicp.cc^
 ||vicp.net^
 ||vietnamddns.com^
