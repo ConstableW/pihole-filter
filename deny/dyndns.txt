@@ -1,4 +1,4 @@
-# pihole-filter / dyndns / Stand 2026-11-04 / 1533 Eintraege (1533 Wildcard, 0 exakt)
+# pihole-filter / dyndns / Stand 2026-11-11 / 1519 Eintraege (1519 Wildcard, 0 exakt)
 # Quelle: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/dyndns-onlydomains.txt (GPL-3.0)
 # Basis von HaGeZi, angepasst von ConstableW
 # Lizenz: GPL-3.0, siehe LICENSE und NOTICE.md im Repository
@@ -32,7 +32,6 @@
 ||3utilities.com^
 ||404.mn^
 ||4040.idv.tw^
-||4cloud.click^
 ||4dq.com^
 ||4khdcamera.com^
 ||4mydomain.com^
@@ -89,7 +88,6 @@
 ||australia.ai^
 ||authorizeddns.net^
 ||authorizeddns.org^
-||authorizeddns.us^
 ||autoipset.com^
 ||avandns.com^
 ||awiki.org^
@@ -101,6 +99,7 @@
 ||bagus.org^
 ||baikabibai.com^
 ||bakli.ru^
+||barbaforte.org^
 ||barrel-of-knowledge.info^
 ||barrell-of-knowledge.info^
 ||baselinux.net^
@@ -111,7 +110,6 @@
 ||bgdsupport.com^
 ||bhms.com^
 ||bigbluezoo.com^
-||bigmoney.biz^
 ||bine.me^
 ||birdriver.org^
 ||biz.st^
@@ -123,6 +121,7 @@
 ||blogdns.net^
 ||blogdns.org^
 ||blogsite.org^
+||blogsite.xyz^
 ||blogsyte.com^
 ||bloodforthebloodgod.com^
 ||bloom.us^
@@ -131,6 +130,7 @@
 ||boldlygoingnowhere.org^
 ||bot.nu^
 ||bounceme.net^
+||bouncers4rent.com^
 ||boxathome.net^
 ||brajkovic.com^
 ||brasilia.me^
@@ -201,6 +201,7 @@
 ||compress.to^
 ||compuinter.com^
 ||computersforpeace.net^
+||compy.ca^
 ||con-ip.com^
 ||conditsis.com^
 ||contepsa.com^
@@ -247,7 +248,6 @@
 ||ddnsgeek.com^
 ||ddnsguru.com^
 ||ddnsking.com^
-||ddnslive.com^
 ||ddnss.ch^
 ||ddnss.de^
 ||ddnss.eu^
@@ -266,7 +266,6 @@
 ||digitalgroupe.com^
 ||dip.jp^
 ||diskstation.eu^
-||diskstation.me^
 ||diskstation.org^
 ||ditchyourip.com^
 ||dive2.net^
@@ -337,12 +336,7 @@
 ||drayddns.com^
 ||dropfiles.net^
 ||drunkensailor.org^
-||dscloud.me^
-||dscloud.mobi^
 ||dsmtp.com^
-||dsmynas.com^
-||dsmynas.net^
-||dsmynas.org^
 ||dtdns.com^
 ||dtdns.net^
 ||dtdns.org^
@@ -430,6 +424,7 @@
 ||dynnamn.ru^
 ||dynns.com^
 ||dyns.be^
+||dyns.cx^
 ||dyns.net^
 ||dynserv.org^
 ||dynssl.com^
@@ -495,11 +490,9 @@
 ||f-parts.net^
 ||f3322.net^
 ||f3322.org^
+||fagdns.com^
 ||fairuse.org^
 ||falcongreen.com^
-||familyds.com^
-||familyds.net^
-||familyds.org^
 ||fantasyleague.cc^
 ||faqserv.com^
 ||farted.net^
@@ -715,7 +708,6 @@
 ||hulichicken.com^
 ||humorvisite.eu^
 ||hunnur.com^
-||i234.me^
 ||iamallama.com^
 ||ics.tw^
 ||ideasciviles.com^
@@ -742,7 +734,6 @@
 ||invitee.net^
 ||ionexusa.com^
 ||iot64.de^
-||iownyour.biz^
 ||iownyour.org^
 ||ip-ddns.com^
 ||ip-dynamic.com^
@@ -872,11 +863,9 @@
 ||kanda.ru^
 ||kaohsiung.tv^
 ||kck-saratov.ru^
-||keenetic.link^
-||keenetic.name^
-||keenetic.pro^
 ||keine-panik.net^
 ||kellserve.com^
+||kfco.net^
 ||kicks-ass.net^
 ||kicks-ass.org^
 ||klapa.eu^
@@ -1005,7 +994,6 @@
 ||mydissent.net^
 ||mydns.bz^
 ||mydns.jp^
-||myds.me^
 ||myeffect.net^
 ||myftp.biz^
 ||myftp.info^
@@ -1041,7 +1029,6 @@
 ||mysecuritycamera.net^
 ||mysecuritycamera.org^
 ||myserver.org^
-||mysynology.net^
 ||myvnc.com^
 ||mywebworld.info^
 ||mywire.org^
@@ -1050,7 +1037,6 @@
 ||myz.info^
 ||n-e-t.name^
 ||n0p.at^
-||n4t.co^
 ||nard.ca^
 ||nas64.de^
 ||nat-ddns.com^
@@ -1072,6 +1058,7 @@
 ||nflfan.org^
 ||nhlfan.net^
 ||ninth.biz^
+||nip.io^
 ||no-domain.name^
 ||no-ip.biz^
 ||no-ip.ca^
@@ -1109,7 +1096,6 @@
 ||ns2.name^
 ||ns3.name^
 ||nsupdate.info^
-||ntdll.top^
 ||nufszone.com^
 ||nx.tc^
 ||ocry.com^
@@ -1342,7 +1328,6 @@
 ||srv64.de^
 ||srvdns.de^
 ||ssitech.bg^
-||ssl443.org^
 ||sslip.io^
 ||ssmailer.com^
 ||star.is^
@@ -1421,6 +1406,7 @@
 ||tvlinux.com^
 ||twilightparadox.com^
 ||twodns.de^
+||twsuser.com^
 ||tzo.com^
 ||ucvradio.cl^
 ||udp64.de^

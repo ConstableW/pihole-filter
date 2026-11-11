@@ -1,4 +1,4 @@
-# pihole-filter / safesearch / Stand 2026-11-04 / 201 Eintraege (201 Wildcard, 0 exakt)
+# pihole-filter / safesearch / Stand 2026-11-11 / 200 Eintraege (200 Wildcard, 0 exakt)
 # Quelle: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/nosafesearch-onlydomains.txt (GPL-3.0)
 # Basis von HaGeZi, angepasst von ConstableW
 # Lizenz: GPL-3.0, siehe LICENSE und NOTICE.md im Repository
@@ -143,7 +143,6 @@
 ||searx.gotrust.de^
 ||searx.guillaumea.fr^
 ||searx.hardwired.link^
-||searx.info^
 ||searx.ir^
 ||searx.lavatech.top^
 ||searx.lwhr.xyz^

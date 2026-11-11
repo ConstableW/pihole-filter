@@ -1,4 +1,4 @@
-# pihole-filter / xiaomi / Stand 2026-11-04 / 350 Eintraege (350 Wildcard, 0 exakt)
+# pihole-filter / xiaomi / Stand 2026-11-11 / 349 Eintraege (349 Wildcard, 0 exakt)
 # Quelle: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/native.xiaomi-onlydomains.txt (GPL-3.0)
 # Basis von HaGeZi, angepasst von ConstableW
 # Lizenz: GPL-3.0, siehe LICENSE und NOTICE.md im Repository
@@ -193,7 +193,6 @@
 ||mibi.xiaomi.com^
 ||micloudevents.preview.n.xiaomi.com^
 ||migc.g.mi.com^
-||migcreport.g.mi.com^
 ||milink.pandora.xiaomi.com^
 ||mis.g.mi.com^
 ||misc.pandora.xiaomi.com^
